@@ -12,5 +12,6 @@ Ahora desde el repositorio remoto creamos el README para después escribirle den
 
 Desde el repositorio local vamos a recuperar los cambios hechos desde el remoto, esto con el comando “git pull origin main”
 
-Ahora vamos a modificar dos archivos de nuestro repositorio local, en mi caso los dos primeros, después en el archivo README vamos a agregar todas las instrucciones hasta ejecutadas hasta ahora, para finalmente confirmar estos cambios con el git commit -a -m "Agregamos a preparacion y confirmamos camb
-ios" y subirlos al repositorio remoto con el "git push origin main".
+Ahora vamos a modificar dos archivos de nuestro repositorio local, en mi caso los dos primeros, después en el archivo README vamos a agregar todas las instrucciones hasta ejecutadas hasta ahora, lo guardamos, para finalmente confirmar estos cambios con el git commit -a -m "Agregamos a preparacion y confirmamos cambios" y subirlos al repositorio remoto con el "git push origin main".
+
+Ahora modificamos dos archivos desde el repositorio remoto, en mi caso los dos ultimos, tambien agregamos al README la instrucciones ejecutadas hasta el momento. Por ultimo, guardamos los archivos modificados en el repositorio remoto y desde el repositorio local recuperamos los cambios con "git pull origin main" 
