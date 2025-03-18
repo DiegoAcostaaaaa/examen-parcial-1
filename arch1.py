@@ -1,1 +1,1 @@
-print(1)
+print("arch1 mod local")
